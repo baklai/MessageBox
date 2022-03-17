@@ -1,0 +1,22 @@
+{
+  "name": "messagebox",
+  "version": "1.0.0",
+  "description": "MessageBox - генератор сообщений",
+  "main": "MessageBox.exe",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baklai/MessageBox.git"
+  },
+  "keywords": [
+    "Delphi"
+  ],
+  "author": "Dmitrii Baklai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baklai/MessageBox/issues"
+  },
+  "homepage": "https://github.com/baklai/MessageBox#readme"
+}
